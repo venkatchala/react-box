@@ -1,9 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+function App1() {
   return (
-    <div style={{ backgroundColor: "blue", width: "400px", height: "400px" }}>
+    <div style={{ backgroundColor: "blue", width: "250px", height: "250px", margin: "10px" }}>
       <h1 style={{ color: "white", textAlign: "center" }}>Welcome!...</h1>
       <h2 style={{ color: "white", textAlign: "center" }}>Venkat</h2>
 
@@ -11,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default App1;
