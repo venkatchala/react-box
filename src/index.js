@@ -1,18 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App1 from './practice/App1';
-import App2 from './practice/App2';
-import UserProfileClass from './practice/UserProfileClass';
-import App1Class from './practice/App1Class';
-import AddUser from './practice/AddUser';
+import Component1 from './TodoList/componenet1';
 import reportWebVitals from './reportWebVitals';
 
 
 
 ReactDOM.render(
   <div>
-    <AddUser />
+    <Component1 />
 
 
   </div>,
